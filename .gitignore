@@ -2,3 +2,4 @@ env/
 sklearn-env/
 rockpaperscissors/
 rockpaperscissor.zip
+best_model.h5
